@@ -22,7 +22,7 @@ This project is a demonstration of building a Line Messaging API using Kafka as 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pongsapak-suwa/line-messaging-kafka
+   git clone https://github.com/pangdfg/line-messaging-kafka
    ```
 
 2. Navigate to the project directory:
